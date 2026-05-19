@@ -1,0 +1,33 @@
+@charset "utf-8";
+/* CSS Document */
+body {background-color:cornflowerblue}
+
+#Logo {float: left;}
+#icon {float: right;}
+
+#index {clear: both;border-top: solid black 
+		1px; border-bottom: solid black 
+			1px;}
+#index a {font-family:Impact;
+	word-spacing:30px;text-decoration-line: none;color: black; }
+
+#index a:hover {color: antiquewhite;}
+
+#Title {color:orange; border-bottom: solid black 
+			1px;}
+
+#Contents {float: left; width: 650px} 
+
+#Box1 {background-color: lightgray; float:left;
+	width: 300px; margin:0px auto 0px auto}
+
+#Box2 {background-color: lightgray;float:left;
+	width: 300px; margin:0px auto 0px auto;}
+
+#Box3 {background-color: lightgray;float:left;
+	width: 300px; margin:0px auto 0px auto;}
+
+#Footer {clear: both;}
+
+#Kotak {background-color:white;
+	width:1000px;margin:0px auto 0px auto;}
